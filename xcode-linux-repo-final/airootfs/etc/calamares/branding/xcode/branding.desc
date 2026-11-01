@@ -1,0 +1,29 @@
+---
+componentName:  xcode
+welcomeStyleCalamares:   true
+welcomeExpandingLogo:   true
+windowExpanding:    normal
+windowSize: 800px,600px
+windowPlacement: center
+sidebar: widget
+navigation: widget
+strings:
+    productName:         XCODE Linux
+    shortProductName:    XCODE
+    version:             1.0
+    shortVersion:        1.0
+    versionedName:       XCODE Linux 1.0
+    shortVersionedName:  XCODE 1.0
+    bootloaderEntryName: XCODE
+    productUrl:          https://xcode-home.netlify.app/
+    supportUrl:          https://discord.gg/VgNFAzq4Te
+images:
+    productLogo:         "xcode-logo.png"
+    productIcon:         "xcode-logo.png"
+    productWelcome:      "xcode-logo.png"
+style:
+    sidebarBackground:    "#050505"
+    sidebarText:          "#FFFFFF"
+    sidebarTextSelect:    "#888888"
+    sidebarTextHighlight: "#FFFFFF"
+slideshow:               "show.qml"
